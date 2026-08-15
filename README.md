@@ -9,7 +9,9 @@ A lightweight deep learning image classifier that recognizes four common exercis
 
 The model was built with TensorFlow/Keras using transfer learning with MobileNetV2 and deployed as a streamlit application.
 
-## Demo
+## Streamlit Application
+
+https://exclassifier.streamlit.app/
 
 Upload an exercise image to the streamlit application and the model predicts:
 
@@ -105,6 +107,5 @@ Dropout was added before the final classification layer to help reduce overfitti
 
 Training and validation performance were monitored during training, followed by evaluation on a held-out test set.
 
-## Streamlit Application
 
-The project includes a simple streamlit interface where we can upload an image and receive a prediction from the trained model.
+
