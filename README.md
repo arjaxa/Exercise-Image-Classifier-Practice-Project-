@@ -81,7 +81,6 @@ on the held-out 40-image test set.
 
 ## Concepts Practiced
 
-This project was created to reinforce concepts from the IBM AI Engineering Professional Certificate, particularly the deep learning and Keras material.
 
 ### Transfer Learning
 
